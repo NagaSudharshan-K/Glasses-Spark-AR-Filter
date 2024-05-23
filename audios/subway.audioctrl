@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "subway",
+  "identifier": "playback_controller_model:1232319-f016f6d8-277e-4ada-a450-a42447a4b333",
+  "needsContinuousLooping": true,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:1231823-f016f6d8-277e-4ada-a450-a42447a4b333"
+}

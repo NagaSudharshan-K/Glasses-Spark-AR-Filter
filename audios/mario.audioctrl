@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "mario",
+  "identifier": "playback_controller_model:1200869-f016f6d8-277e-4ada-a450-a42447a4b333",
+  "needsContinuousLooping": true,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:1200409-f016f6d8-277e-4ada-a450-a42447a4b333"
+}

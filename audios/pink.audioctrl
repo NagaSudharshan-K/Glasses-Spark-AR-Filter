@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "pink",
+  "identifier": "playback_controller_model:1221697-f016f6d8-277e-4ada-a450-a42447a4b333",
+  "needsContinuousLooping": true,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:1221221-f016f6d8-277e-4ada-a450-a42447a4b333"
+}
